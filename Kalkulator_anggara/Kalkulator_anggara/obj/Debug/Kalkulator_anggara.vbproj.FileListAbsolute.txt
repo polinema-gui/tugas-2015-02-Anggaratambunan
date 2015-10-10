@@ -1,0 +1,10 @@
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\bin\Debug\Kalkulator_anggara.exe.config
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\bin\Debug\Kalkulator_anggara.exe
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\bin\Debug\Kalkulator_anggara.pdb
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\bin\Debug\Kalkulator_anggara.xml
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.Form1.resources
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.Resources.resources
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.vbproj.GenerateResource.Cache
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.exe
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.xml
+c:\users\anggara\documents\visual studio 2013\Projects\Kalkulator_anggara\Kalkulator_anggara\obj\Debug\Kalkulator_anggara.pdb
